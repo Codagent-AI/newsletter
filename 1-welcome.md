@@ -8,7 +8,7 @@ I first knew it was a thing when I caught the agentic coding bug last year.
 
 Agentic coding - engineers either love it or hate it. For me, it was love at first prompt. It has an addictive quality, largely because you never quite know what you’re going to get. One minute, the AI solves a bug that’s been plaguing you for hours. The next, it tries to delete your production database. That unpredictability creates a dopamine hit every time you “win.”
 
-Coding agents are like slot machines, and I was hooked. But I didn't just want to play the game - I wanted to "beat the house". So I became obsessed: what changes could I make to win more often? To tilt the weights in my favor, so to speak.
+Coding agents are like slot machines, and I was hooked. But I didn't just want to play the game - I wanted to "beat the houseg". So I became obsessed: what changes could I make to win more often? To tilt the weights in my favor, so to speak.
 
 So I got to work, using agents to build tools for building with agents. It was not smooth sailing.
 
