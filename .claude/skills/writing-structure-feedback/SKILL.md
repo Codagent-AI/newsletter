@@ -1,4 +1,5 @@
 ---
+name: writing-structure-feedback
 description: "Review a newsletter draft for structural clarity and cohesiveness: story arc, section transitions, redundancy across sections, and pacing. Complements the sentence-level voice guidelines in CLAUDE.md."
 ---
 
