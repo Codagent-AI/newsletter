@@ -57,6 +57,7 @@ Use these labels:
 
 - `JOB:` section purpose.
 - `ARC:` story role or narrative move.
+- `SEGUE:` bridge from the previous section into this section.
 - `STRUCTURE:` section order, placement, transition, or outline shape.
 - `CLAIM:` argument or idea the section may carry.
 - `EVIDENCE:` supporting fact, case, quote candidate, data point, or example.
@@ -75,16 +76,17 @@ Order labels to make the story arc visible:
 
 1. `JOB:`
 2. `ARC:`
-3. `STRUCTURE:`
-4. `CLAIM:`
-5. `EVIDENCE:` / `SOURCE:` / `EXAMPLES:` / `MATRIX:`
-6. `INITIAL THOUGHT:`
-7. `KEEP LIGHT:`
-8. `RISK:`
-9. `QUESTION:`
-10. `PAYOFF:`
-11. `PAUL:`
-12. `DRAFT SLOT:`
+3. `SEGUE:`
+4. `STRUCTURE:`
+5. `CLAIM:`
+6. `EVIDENCE:` / `SOURCE:` / `EXAMPLES:` / `MATRIX:`
+7. `INITIAL THOUGHT:`
+8. `KEEP LIGHT:`
+9. `RISK:`
+10. `QUESTION:`
+11. `PAYOFF:`
+12. `PAUL:`
+13. `DRAFT SLOT:`
 
 Do not force every label into every section. Keep evidence attached to the claim it supports. If `PAUL:` prose already exists, keep it under the relevant section and add planning labels only when useful.
 
@@ -97,6 +99,7 @@ Follow `template.md` unless the user asks for a different structure. Use this co
 
 > - JOB:
 > - ARC:
+> - SEGUE:
 > - STRUCTURE:
 > - QUESTION:
 > - DRAFT SLOT:
@@ -105,6 +108,7 @@ Follow `template.md` unless the user asks for a different structure. Use this co
 
 > - JOB: Frame the tension, problem, or concrete observation.
 > - ARC:
+> - SEGUE:
 > - STRUCTURE:
 > - EVIDENCE:
 > - RISK: Avoid table-of-contents intro.
@@ -124,6 +128,7 @@ Follow `template.md` unless the user asks for a different structure. Use this co
 
 > - JOB: Explain framework/background/vocabulary before the argument lands.
 > - ARC: Context-building section before the main turn.
+> - SEGUE:
 > - STRUCTURE: Place before the argument; name the later claim this enables.
 > - CLAIM: Descriptive claim, not the main thesis yet.
 > - EVIDENCE:
@@ -141,6 +146,7 @@ Follow `template.md` unless the user asks for a different structure. Use this co
 >   - Evidence:
 >   - Turn:
 >   - Payoff:
+> - SEGUE:
 > - STRUCTURE:
 > - CLAIM:
 > - EVIDENCE:

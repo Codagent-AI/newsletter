@@ -12,7 +12,7 @@ Turn one notes-only newsletter outline section into prose. Use this after that s
 Before writing:
 
 1. Read the target notes or user-provided outline.
-2. Read `CLAUDE.md` for project voice, structure, and editing rules.
+2. Read `AGENTS.md` for project voice, structure, and editing rules.
 3. Identify the single section to write.
 4. Draft that section from its notes, preserving sources and unresolved questions.
 5. Integrate any `PAUL:` prose with only minor edits.
@@ -22,7 +22,7 @@ If the user does not specify a section, ask which section to write before drafti
 
 If the topic, intended angle, or chosen section scope is unclear, ask before writing.
 
-Follow the newsletter voice in `CLAUDE.md`: first-person practitioner voice, simple/direct language, no filler, no generic AI polish.
+Follow the newsletter voice in `AGENTS.md`: first-person practitioner voice, simple/direct language, no filler, no generic AI polish.
 
 ## Writing From Notes
 

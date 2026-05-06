@@ -1,13 +1,13 @@
 ---
 name: writing-structure-feedback
-description: "Review a newsletter draft for structural clarity and cohesiveness: story arc, section transitions, redundancy across sections, and pacing. Complements the sentence-level voice guidelines in CLAUDE.md."
+description: "Review a newsletter draft for structural clarity and cohesiveness: story arc, section transitions, redundancy across sections, and pacing. Complements the sentence-level voice guidelines in AGENTS.md."
 ---
 
 # Writing Structure Feedback
 
 Review a newsletter draft for structural problems — the kind that survive sentence-level editing because they live in the relationships *between* sections, not within them.
 
-This skill covers architecture. CLAUDE.md covers voice and sentence-level problems. Don't duplicate that work here — assume the voice pass happens separately.
+This skill covers architecture. AGENTS.md covers voice and sentence-level problems. Don't duplicate that work here — assume the voice pass happens separately.
 
 ## How to run the review
 
@@ -110,7 +110,7 @@ When the piece makes argument #1, #2, #3 in sequence, they should escalate or at
 
 ### 5. Backward-looking summary sentences (structural version)
 
-CLAUDE.md covers this at the sentence level. At the structural level, it manifests as a sentence that summarizes the section's argument right before transitioning to the next section. It feels like a conclusion but it's actually dead weight — the reader already understood the point.
+AGENTS.md covers this at the sentence level. At the structural level, it manifests as a sentence that summarizes the section's argument right before transitioning to the next section. It feels like a conclusion but it's actually dead weight — the reader already understood the point.
 
 **The fix:** Cut the summary sentence. Let the transition do the work.
 
@@ -159,7 +159,7 @@ The piece builds to an intellectual capstone (the argument lands, the thesis is 
 ## What NOT to do
 
 - Don't rewrite sections. This is feedback, not a revision.
-- Don't flag sentence-level voice issues — that's CLAUDE.md's job.
+- Don't flag sentence-level voice issues — that's AGENTS.md's job.
 - Don't suggest adding sections or features the author didn't intend. Critique the structure of what's there.
 - Don't soften feedback with "this is really good but..." — state the problem directly. The author asked for structural critique; give it.
 - Don't number issues by importance. Group by type, and trust the author to prioritize.
